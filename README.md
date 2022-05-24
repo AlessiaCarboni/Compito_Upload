@@ -3,8 +3,7 @@ Compito per 25/05/2022
 ## Style ##
 - Imposto sfondo di colore rosso
 - Imposto il paragrafo h1 (dimensione maggiore) con font Times New Roman e faccio la stessa cosa ad ogni riquadro (legend).
---------------------------
-```python
+
 ## Body ##
 - Riga 22: Eseguo la connessione alla pagina php "Registrazione.php" in modo che i dati inviati non siano visibili sull'URL, grazie al metodo POST applicato al form.
 - Riga 24: Apro il tag fieldset, che serve per suddividere il testo in paragrafi, i quali hanno ognuno un proprio titolo specifico.
@@ -26,4 +25,3 @@ Compito per 25/05/2022
   Creo input di tipo "submit" per l'invio dei dati
   Creo input di tipo "reset" per resettare tutti gli inserimenti una volta inviati i dati inseriti
   - Chiudo la pagina html
-  ```
